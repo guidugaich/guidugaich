@@ -4,9 +4,9 @@
 <h3>Also open to work opportunities :)</h3>
 <br><br>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=guidugaich" />
+<img src="https://github-readme-stats.vercel.app/api/?username=guidugaich" />
 <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidugaich" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidugaich" />
 </div>
 
 
