@@ -2,10 +2,9 @@
 
 My name is Guilherme, I am from São Paulo, Brazil and I'm a junior web developer looking to learn and build cool stuff. I have a background in economics and finance and currently studying for a career transition to software development. I'm currently open to work opportunities!
 
-Get in touch with me:
+Get in touch with me: guidugaich.dev@gmail.com | [Linkedin](https://www.linkedin.com/in/guidugaich/)
 
-email: guidugaich.dev@gmail.com
-[Linkedin](https://www.linkedin.com/in/guidugaich/)
+Some of the technologies I've benn working with:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -17,9 +16,8 @@ email: guidugaich.dev@gmail.com
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </p>
 
-<br><br>
+## Github stats
 <img src="https://github-readme-stats.vercel.app/api/?username=guidugaich" />
-<br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidugaich" />
 
 
