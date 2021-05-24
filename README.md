@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Guilherme, I am from São Paulo, Brazil and I'm a junior web developer looking to learn and build cool stuff. I have a background in economics and finance and studying for a career transition to software development. I'm currently open to work opportunities!
+My name is Guilherme, I am from São Paulo, Brazil and I'm a junior web developer looking to learn and build cool stuff. I have a background in economics and finance and currently studying for a career transition to software development. I'm currently open to work opportunities!
 
 Get in touch with me:
 
