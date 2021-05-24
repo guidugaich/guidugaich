@@ -1,7 +1,6 @@
 # Hi there 👋
 
-<h2>I'm a junior web developer looking to learn and build cool stuff.</h2> 
-<h3>Also open to work opportunities :)</h3>
+My name is Guilherme, I am from São Paulo, Brazil and I'm a junior web developer looking to learn and build cool stuff. I have a background in economics and finance and studying for a career transition to software development. I'm currently open to work opportunities!
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/?username=guidugaich" />
 <br><br>
