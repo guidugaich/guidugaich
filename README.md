@@ -2,6 +2,7 @@ Hi there, I'm Gui. Software developer based in Brazil, always looking to learn a
 
 My main technologies include Node.js, Javasciprt/Typescript, Python, SQL, AWS and I can easily learn new tech as needed.
 
-## Get in touch with me: 
-guidugaich.dev@gmail.com | [Linkedin](https://www.linkedin.com/in/guidugaich/) | dev.to/guidugaich
-
+Get in touch with me: 
+guidugaich.dev@gmail.com
+[Linkedin](https://www.linkedin.com/in/guidugaich/)
+[dev.to](https://dev.to/guidugaich)
