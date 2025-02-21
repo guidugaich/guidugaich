@@ -4,6 +4,6 @@ My main technologies include Node.js, Javasciprt/Typescript, Python, SQL, AWS an
 
 Get in touch with me:
 
-guidugaich.dev@gmail.com
-[Linkedin](https://www.linkedin.com/in/guidugaich/)
+guidugaich.dev@gmail.com \n
+[Linkedin](https://www.linkedin.com/in/guidugaich/) \n
 [dev.to](https://dev.to/guidugaich)
